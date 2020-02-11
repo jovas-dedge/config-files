@@ -1,1 +1,1 @@
-# SpringCloud-testConfig
+# Configuration files repo
