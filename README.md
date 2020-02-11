@@ -1,1 +1,1 @@
-# configuration files
+# Configuration files repo
